@@ -35,8 +35,8 @@ const App = () => {
         </div>
         <div id='footer' className='bg-red inline-flex justify-around w-full p-8  text-white '>
           <h1 className='inline-flex items-center gap-1 '><img className='ft' src={Call} ></img>Toll free <b>1800 200 1234</b></h1>
-          <h1 className='inline-flex items-center gap-1 '><img className='ft' src={Facebook} ></img><a href='www.facebook.com/cripumps'>www.facebook.com/cripumps</a></h1>
-          <h1 className='inline-flex items-center gap-1 '><img className='ft' src={World} ></img><a href='www.cripumps.com'>www.cripumps.com</a></h1>
+          <h1 className='inline-flex items-center gap-1 '><img className='ft' src={Facebook} ></img><a href='https://www.facebook.com/cripumps'>www.facebook.com/cripumps</a></h1>
+          <h1 className='inline-flex items-center gap-1 '><img className='ft' src={World} ></img><a href='https://www.crigroups.com/'>www.cripumps.com</a></h1>
         </div>
       </div>
     </div>
