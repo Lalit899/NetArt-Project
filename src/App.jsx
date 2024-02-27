@@ -10,7 +10,7 @@ import World from './assets/world.png'
 const App = () => {
   return (
     <>
-    <div className='flex flex-col items-center w-full text-base '>
+    <div className='flex flex-col items-center w-full text-base px-3 '>
       <div id='container' className='flex flex-row gap-5 phone:flex-col-reverse tablet:flex-row text-base '>
       <img className='h-screen w-96 m-8 mt-44 phone:mt-5 m-2 tablet:mt-44 m-8 ' src={Award} alt='award'></img>
       <h1 className='w-full mx-5 '>
