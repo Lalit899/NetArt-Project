@@ -29,7 +29,7 @@ const App = () => {
         <h4>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</h4>
         <img className='my-5 mx-40 phone:px-4 tablet:px-40 ' src={Tools} alt='tools'></img>
         <h3>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</h3>
-        <hr className='border-red border-b-2 m-5 phone:mx-1 my-4  tablet:m-5 '/>
+        <hr className='border-red border-b-2 m-5 w-full phone:mx-1 my-4  tablet:m-5 '/>
         <b>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>
         <h5 className='m-5 phone:m-3 tablet:m-5 '>CHEMICALS & PROCESS <span className='text-red font-bold '>|</span> POWER <span className='text-red font-bold '>|</span> WATER & WASTE WATER <span className='text-red font-bold '>|</span> OILS & GAS <span className='text-red font-bold '>|</span> PHARMA <span className='text-red font-bold '>|</span> SUGARS & DISTILLERIES <span className='text-red font-bold '>|</span> PAPER & PULP <span className='text-red font-bold '>|</span> MARINE & DEFENCE <span className='text-red font-bold '>|</span> METAL & MINING <span className='text-red font-bold '>|</span> FOOD & BEVERAGE <span className='text-red font-bold '>|</span> PETROCHEMICAL & REFINERIES <span className='text-red font-bold '>|</span> SOLAR <span className='text-red font-bold '>|</span> BUILDING <span className='text-red font-bold '>|</span> HVAC <span className='text-red font-bold '>|</span> FIRE FIGHTING <span className='text-red font-bold '>|</span> AGRICULTURE & RESIDENTIAL</h5>
         </div>
