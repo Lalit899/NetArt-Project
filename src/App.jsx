@@ -11,7 +11,7 @@ const App = () => {
   return (
     <>
     <div className='flex flex-col items-center w-full text-base '>
-      <div className='flex flex-row gap-5 phone:flex-col-reverse text-xs tablet:flex-row text-base '>
+      <div id='container' className='flex flex-row gap-5 phone:flex-col-reverse tablet:flex-row text-base '>
       <img className='h-screen w-96 m-8 mt-44 phone:mt-5 m-2 tablet:mt-44 m-8 ' src={Award} alt='award'></img>
       <h1 className='w-full mx-5 '>
         <img className='w-2/4 ' src={Logo} alt='logo'></img>
@@ -27,7 +27,7 @@ const App = () => {
       <div className='mt-16 m-2 phone:text-xs tablet:text-base'>
         <div className='flex justify-center flex-col text-center '>
         <h4>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</h4>
-        <img className='my-5 mx-40 phone:mx-4 tablet:mx-40 ' src={Tools} alt='tools'></img>
+        <img className='my-5 mx-40 phone:px-4 tablet:px-40 ' src={Tools} alt='tools'></img>
         <h3>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</h3>
         <hr className='border-red border-b-2 m-5 phone:mx-1 my-4  tablet:m-5 '/>
         <b>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</b>
