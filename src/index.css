@@ -29,6 +29,9 @@ body {
         font-size: 0.75rem/* 12px */;
         line-height: 1rem/* 16px */;
     }
+    #awd {
+        padding-top: 9rem/* 144px */;
+    }
 }
 
 
