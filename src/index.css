@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'bitter';
+    src: local('bitter'), url(./assets/Bitter-Regular.ttf) format('truetype');
+  }
+
+body {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,248,170,1) 100%);
+    font-family: bitter,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ft {
+    width: 30px;
+}
+
+.flex {
+    align-items: center;
+}
+
+@media (min-width:250px) and (max-width:900px) {
+    #footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+
